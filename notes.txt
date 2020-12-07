@@ -1,0 +1,4 @@
+make
+
+jd@jd:~/data/01_c$ LD_PRELOAD=./fireshim.so firefox
+jd@jd:~/data/01_c$ LD_PRELOAD=./shim.so randtest 
